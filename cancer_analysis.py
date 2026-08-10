@@ -20,6 +20,7 @@ try:
         plt.xlabel("Mean Radius of Tumor Cells", fontsize=12)
         plt.ylabel("Patient Count", fontsize=12)
         plt.tight_layout()
+        plt.savefig("cancer_tumor_distribution.png", dpi=300)
         plt.show()
     else:
         print("\n--- First 5 rows of your dataset ---")
