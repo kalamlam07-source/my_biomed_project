@@ -1,0 +1,5 @@
+Molecule_Name,SMILES_Structure,Est_Absorption_%,Screening_Status
+Compound_A (Experimental),CCN(CC)CC,15.0,FAILED (Poor Bioavailability)
+Compound_B (Aspirin-like),CC(=O)OC1=CC=CC=C1C(=O)O,56.25,PASSED (Safe & Absorbable)
+Compound_C (Heavy Blocker),C1=CC=C(C=C1)C2=CC=CC=C2C3=CC=CC=C3,15.0,FAILED (Poor Bioavailability)
+Compound_D (Toxic Control),ClC(Cl)(Cl)Cl,15.0,FAILED (High Toxicity Risk)
