@@ -1,0 +1,7 @@
+Compound_ID,SMILES,Structural_Complexity,Simulated_Bio_Score,Decision
+Candidate_01 (Remdesivir-like),C1=CC=C2C(=C1)C(=NN2)N,22,29.17,REJECTED (Poor Pharmacokinetic Profile)
+Candidate_02 (Heavy Ring Compound),C1=CC=C(C=C1)C2=CC=CC=C2C3=CC=CC=C3C4=CC=CC=C4,46,192.0,REJECTED (Molecular Weight Too Heavy)
+Candidate_03 (Synthetic Peptide),CC(C)C(C(=O)O)NC(=O)C,21,21.88,REJECTED (Poor Pharmacokinetic Profile)
+Candidate_04 (Fluorinated Blocker),C1=CC=C(C=C1)F,14,48.0,APPROVED (Lead Candidate Select)
+Candidate_05 (Reactive Hazard),C1=CC=C(C=C1)S(=O)(=O)Cl,24,43.75,REJECTED (Chemical Toxicity Alert)
+Candidate_06 (Natural Plant Extract),CC1=CC(=O)C2=C(C1)C(=O)C=CC2=O,30,45.83,APPROVED (Lead Candidate Select)
